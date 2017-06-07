@@ -1,0 +1,18 @@
+
+"Cron (Scheduled Tasks) - all the times are in minutes", "Cron (Plānotais Uzdevumi) - visi laiki ir minūtēs"
+"Daily", "Dienas"
+"Failure History Lifetime", "Nespēja Vēsture Mūža"
+"For correct URLs generated during cron runs please make sure that Web > Secure and Unsecure Base URLs are explicitly set.", "Lai pareizi URL iegūtai cron darbojas pārliecinieties, ka tīmekļa> Drošas un nedrošu Base URL ir skaidri noteikti."
+"Generate Schedules Every", "Izveidot grafikus Katram"
+"History Cleanup Every", "Vēsture Talkas Katram"
+"Invalid callback: %s::%s does not exist", "Nepareiza atzvanīšanas:% s ::% s neeksistē"
+"Invalid model/method definition, "Nepareiza modelis / metode definīcija
+"Missed if Not Run Within", "Neatbildēts ja ne palaist laikā"
+"Monthly", "Mēneša"
+"No callbacks found", "Nav atzvanus atrasts"
+"Schedule Ahead for", "Grafiks uz priekšu"
+"Success History Lifetime", "Veiksme Vēsture Mūža"
+"Too late for the schedule.", "Pārāk vēlu grafiku."
+"Unable to save the cron expression.", "Nevar saglabāt cron izteiksme."
+"Unknown error.", "Nezināma kļūda."
+"Weekly", "Nedēļas"

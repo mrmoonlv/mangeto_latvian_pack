@@ -1,0 +1,41 @@
+
+"--Please Select--", "- Lūdzu izvēlieties -"
+"API Login ID", "API Pieteikšanās ID"
+"Accepted Currency", "Pieņemts Valūta"
+"Authorize.net Direct Post", "Authorize.net Tiešā Post"
+"Card Verification Number", "Kartes pārbaudes numura"
+"Card Verification Number Visual Reference", "Kartes Pārbaude skaits Vizuālā Atsauce"
+"Close", "Aizvērt"
+"Credit Card Information", "Kredītkartes informācija"
+"Credit Card Number", "Kredītkartes numurs"
+"Credit Card Type", "Kredītkarte Tips"
+"Credit Card Types", "Credit Card veidi"
+"Credit Card Verification", "Kredītkarte pārbaude"
+"Debug", "Atkļūdošanas"
+"Email Customer", "E-Klients"
+"Enabled", "Enabled"
+"Expiration Date", "Beigu datums"
+"Gateway URL", "Gateway URL"
+"Maximum Order Total", "Maksimālais rīkojums Kopā"
+"Merchant MD5", "Komersants MD5"
+"Merchant's Email", "Komersanta Nosūtīt"
+"Minimum Order Total", "Minimālais pasūtījuma Kopā"
+"New Order Status", "Jaunā pasūtījuma statuss"
+"Order saving error: %s", "Pasūtījuma ietaupījums kļūda:% s"
+"Payment Action", "Maksājumu darbība"
+"Payment authorization error.", "Maksājumu atļauja kļūda."
+"Payment authorization error. Transacion id is empty.", "Maksājumu atļauja kļūda Transacion id ir tukša.".
+"Payment error. Order was not found.", "Maksājuma kļūda rīkojums netika atrasts.".
+"Payment error. Paid amount doesn't match the order amount.", "Maksājuma kļūda samaksātā summa neatbilst pasūtījuma summu.".
+"Payment from Applicable Countries", "Maksājumu piemērojamajiem valstīs"
+"Payment from Specific Countries", "Maksājumu no konkrētām valstīm"
+"Please, "Lūdzu
+"Response hash validation failed. Transaction declined.", "Atbilde hash apstiprināšanu neizdevās Darījumu samazinājās.".
+"Sort Order", "Kārtot rīkojums"
+"Test Mode", "Testa režīms"
+"The order has been created.", "Pasūtījums ir izveidots."
+"There was an error processing your order. Please contact us or try again later.", "Tur bija kļūda, apstrādājot savu pasūtījumu, lūdzu, sazinieties ar mums vai mēģiniet vēlreiz vēlāk.".
+"Title", "Nosaukums"
+"Transaction Key", "Darījuma atslēga"
+"What is this?", "Kas tas ir?"
+"You will be required to enter your payment details before you place an order.", "Jums tiks prasīts ievadīt maksājumu, pirms jūs veikt pasūtījumu."

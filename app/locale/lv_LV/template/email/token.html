@@ -1,0 +1,17 @@
+{* This is a comment block
+
+Available vars in this template:
+  - $userName           User name
+  - $applicationName    Application name
+  - $status             Token new status
+
+Use vars: {{var var_name}}
+*}<!--@subject Labdien, {{var name}} @-->
+<!--@vars
+{"htmlescape var=$userName":"User name",
+"var $applicationName":"Application name",
+"var $status":"Token new status"}
+@-->
+
+Cien. {{htmlescape var=$userName}}!<br /><br />
+Jūsu <b>{{htmlescape var=$applicationName}}</b> autorizāciju mainīja uz <b>{{htmlescape var=$status}}</b> administratoru komanda.<br /><br />

@@ -1,0 +1,71 @@
+{* This is a comment block
+
+Use vars: {{var var_name}}
+*}<!--@subject Neveiksmīgas Maksājuma Transakcijas Atgādinājums @-->
+<!--@vars
+{"var reason":"Transaction Failed Reason",
+"var checkoutType":"Checkout Type",
+"var customerEmail":"Customer Email",
+"var customer":"Customer Name",
+"var items":"Shopping Cart Items",
+"var total":"Total",
+"var billingAddress.format('html')":"Billing Address",
+"var shippingAddress.format('html')":"Shipping Address",
+"var shippingMethod":"Shipping Method",
+"var paymentMethod":"Payment Method",
+"var dateAndTime":"Date and Time of Transaction"}
+@-->
+
+<table>
+    <thead>
+        <tr>
+            <th>Maksājuma transakcija bija neveiksmīga.</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>
+                <p>
+                    <b>Iemesls</b><br />
+                    {{var reason}}
+                </p>
+                <p>
+                    <b>Apmaksas Veids</b><br />
+                    {{var checkoutType}}
+                </p>
+                <p>
+                    <b>Klients:</b><br />
+                    <a href="mailto:{{var customerEmail}}">{{var customer}}</a> &lt;{{var customerEmail}}&gt;
+                </p>
+                <p>
+                    <b>Preces</b><br />
+                    {{var items}}
+                </p>
+                <p>
+                    <b>Kopā:</b><br />
+                    {{var total}}
+                </p>
+                <p>
+                    <b>Rēķina Adrese:</b><br />
+                    {{var billingAddress.format('html')}}
+                </p>
+                <p>
+                    <b>Piegādes Adrese:</b><br />
+                    {{var shippingAddress.format('html')}}
+                </p>
+                <p>
+                    <b>Piegādes Metode:</b><br />
+                    {{var shippingMethod}}
+                </p>
+                <p>
+                    <b>Apmaksas Metode:</b><br />
+                    {{var paymentMethod}}
+                </p>
+                <p>
+                    <b>Datums & Laiks:</b><br />
+                    {{var dateAndTime}}
+                </p>
+            </td>
+        </tr>
+    </tbody>
+</table>
